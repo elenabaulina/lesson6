@@ -10,7 +10,7 @@ class TrafficLight:
             elif s == 1:
                 sleep(2)
             elif s == 2:
-                sleep(15)
+                sleep(14)
             s += 1
 t = TrafficLight()
 t.running()
